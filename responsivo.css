@@ -1,0 +1,9 @@
+@media screen and (orientation: landscape) {
+    #cabecalho{
+        display: none;
+    }
+}
+#dispositivo{
+    display: block;
+}
+    

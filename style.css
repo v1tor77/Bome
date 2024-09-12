@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+    padding: 20px;
+    border:solid 1px;
+}
+main {
+    display: flex;
+    text-align: center;
+    padding:20px;
+    border:solid 1px;
+}
+section { 
+    border:solid 1px;
+}
+aside {
+    text-align: right;
+    padding: 20px;
+    border:solid 1px;
+}
+footer {
+    text-align: center;
+    border:solid 1px;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
